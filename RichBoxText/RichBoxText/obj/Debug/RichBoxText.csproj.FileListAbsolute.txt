@@ -1,0 +1,10 @@
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\bin\Debug\RichBoxText.exe.config
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\bin\Debug\RichBoxText.exe
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\bin\Debug\RichBoxText.pdb
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\obj\Debug\RichBoxText.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\obj\Debug\RichBoxText.Form1.resources
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\obj\Debug\RichBoxText.Properties.Resources.resources
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\obj\Debug\RichBoxText.csproj.GenerateResource.cache
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\obj\Debug\RichBoxText.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\obj\Debug\RichBoxText.exe
+C:\Users\toni-PC\source\repos\RichBoxText\RichBoxText\obj\Debug\RichBoxText.pdb
